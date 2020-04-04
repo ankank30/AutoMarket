@@ -34,5 +34,5 @@ Management software that is made for all employees of any role in the Supermarke
 
 ## Project background
 This software is a product of my 6th semester Software Engineering Laboratory
-#### Course Code: CS2071 | NIT, Rourkela
+#### Course Code: CS3074 | NIT, Rourkela
 #### Course Professor: Dr. Judhistir Mahapatro
